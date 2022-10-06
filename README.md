@@ -1,6 +1,6 @@
 # Authors
-Burak Dursun - 150119743
-Haydar Taha Tunç - 150119745
+Burak Dursun - 150119743 \n
+Haydar Taha Tunç - 150119745 \n
 Emir Ege Eren - 150119739
 
 # SortingAlgorithms
