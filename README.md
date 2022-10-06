@@ -1,3 +1,8 @@
+# Authors
+Burak Dursun - 150119743
+Haydar Taha Tunç - 150119745
+Emir Ege Eren - 150119739
+
 # SortingAlgorithms
 In this experiment we use seven different methods to find the kth smallest element in various input files. We determine the performance characteristics of these seven algorithms.
 
